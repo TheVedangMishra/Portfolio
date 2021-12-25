@@ -1,0 +1,8 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #8bd3dd;
+}
+.logo{
+    height: 3rem;
+    border-radius: 2rem;
+}
